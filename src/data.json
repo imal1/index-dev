@@ -1,0 +1,15 @@
+[
+    {
+        "name": "百度",
+        "src": "./imgs/bd_logo.png",
+        "href": "https://www.baidu.com/",
+        "request": "http://m.baidu.com/s?wd="
+    },
+    {
+        "name": "谷歌",
+        "src": "./imgs/google_logo.png",
+        "href": "https://www.google.com/",
+        "request": "https://www.google.com/search?q="
+
+    }
+]
